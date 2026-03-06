@@ -1,1 +1,1 @@
-# Makine-renmesi-dev
+# Makine Ogrenmesi Odev
